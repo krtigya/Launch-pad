@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Launchpad",
+  "description": "A highly polished, interactive developer workspace hub for building, testing, and simulating Cloud Run deployments of full-stack AI applications using Antigravity 2.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
